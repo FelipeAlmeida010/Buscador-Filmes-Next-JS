@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "styled-components": "^5.3.5",
+    "yarn": "^1.22.19"
+  },
+  "name": "Next-JS",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Felipe",
+  "license": "MIT"
+}
